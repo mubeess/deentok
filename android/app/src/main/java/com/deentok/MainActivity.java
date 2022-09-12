@@ -52,4 +52,5 @@ public class MainActivity extends ReactActivity {
     RNBootSplash.init(this); // <- initialize the splash screen
     super.onCreate(savedInstanceState); // or super.onCreate(null) with react-native-screens
   }
+
 }
